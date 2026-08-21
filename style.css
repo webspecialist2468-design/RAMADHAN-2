@@ -13,7 +13,7 @@ body {
 header {
     background-image: url(1.jpg);
     background-image: url(2.jpg);
-    text-align: center;
+    text-align: left;
     align-items: center;
     justify-content: center;
     color: white;
@@ -22,5 +22,5 @@ header {
     background-size: cover;
     background-position: center;
     text-shadow: 2px 2px 4px black;
-    
+
 }
