@@ -21,4 +21,6 @@ header {
     height: 80vb;
     background-size: cover;
     background-position: center;
+    text-shadow: 2px 2px 4px black;
+    
 }
