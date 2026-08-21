@@ -1,9 +1,10 @@
 h1 {
-    color: red;
+    color: black;
 }
 
 footer {
-    background-color: darkred;
+    background-color: pink;
+    color: black;
 }
 
 body {
@@ -24,3 +25,4 @@ header {
     text-shadow: 2px 2px 4px black;
 
 }
+h4 {color: black;}
