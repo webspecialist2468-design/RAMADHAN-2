@@ -9,3 +9,16 @@ footer {
 body {
     background-color: black;
 }
+
+header {
+    background-image: url(1.jpg);
+    background-image: url(2.jpg);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    display: flex;
+    height: 80vb;
+    background-size: cover;
+    background-position: center;
+}
